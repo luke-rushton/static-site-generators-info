@@ -128,8 +128,13 @@ footer p {
   
 }
 .footer-section li {
-  padding: 2rem;
+  padding: 0.5rem;
  
+}
+@media(min-width:768px) {
+    .footer-section li {
+        padding: 2rem;
+    }
 }
 
 
