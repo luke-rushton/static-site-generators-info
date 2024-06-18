@@ -93,6 +93,38 @@ body section {
 }
 
 /* footer styles go here */
+/* footer link */
+.footer-section a:link,
+.footer-section a:visited,
+.footer-section a:hover,
+.footer-section a:active {
+  text-decoration: none;
+  color: white;
+}
+footer {
+  background-color: #014FA4;
+  color: white;
+  padding-top: 1rem;
+}
+footer p {
+  text-align: center;
+  margin-bottom: 0;
+}
+.footer-section {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0;
+  
+}
+.footer-section li {
+  padding: 2rem;
+ 
+}
+
+
 
 /* font styles go here */
 
