@@ -32,6 +32,11 @@ p {
   line-height: 1.5rem;
 }
 
+table {
+  font-family: "Cabin", sans-serif;
+  font-size: 1rem;
+}
+
 header {
   width: 100%;
   background-color: grey;
@@ -48,6 +53,11 @@ main {
 main h2 {
   text-align: center;
 }
+
+a {
+  font-family: "Cabin", sans-serif;
+}
+
 footer {
   background-color: grey;
 }
