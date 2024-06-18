@@ -25,7 +25,15 @@ header {
 }
 header * {
   text-align: center;
+  list-style: none;
+  font-size: 1.5rem;
 }
+
+nav{
+  display: flex;
+  justify-content: space-around;
+}
+
 main {
   margin: auto;
   width: 90%;
