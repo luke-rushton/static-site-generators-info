@@ -93,6 +93,35 @@ body section {
 }
 
 /* footer styles go here */
+footer {
+  background-color: #014FA4;
+  color: white;
+  padding-top: 1rem;
+}
+footer p {
+  text-align: center;
+}
+.footer-section {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+.footer-section li {
+  padding: 2rem;
+ 
+}
+.footer-section a:link,
+.footer-section a:visited,
+.footer-section a:hover,
+.footer-section a:active {
+  text-decoration: none;
+  color: white;
+ 
+}
+
 
 /* font styles go here */
 
