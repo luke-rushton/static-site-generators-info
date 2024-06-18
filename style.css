@@ -161,4 +161,32 @@ figcaption {
   font-style: italic;
   font-size: 0.9em;
   margin-top: 5px;
+/* nav styling */
+nav button{
+    display: block;
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+    background-color: none;
+    border: none;
+    background-color: rgb(218, 215, 214);
+}
+nav img{
+    display: block;
+    width: 2rem;
+    margin: 0rem;
+}
+nav{
+    position: fixed;
+    background-color: rgb(218, 215, 214);
+    border: 2px solid rgb(14, 13, 13);
+    border-radius: 1rem;
+}
+nav ul{
+    display: none;
+    list-style: none;
+    padding: 0;
+}
+nav li{
+     text-align: left;
 }
