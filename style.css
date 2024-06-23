@@ -181,7 +181,7 @@ nav button{
     border-radius: 50%;
     padding: 0;
     margin: 0;
-    background-color: none;
+    /* background-color: none; */
     border: none;
     background-color: rgb(218, 215, 214);
 }
